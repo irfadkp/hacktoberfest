@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Irfad kp](https://github.com/irfadkp)
+- Place: kerala, India
+- Bio: Flutter developer and ML aspirant
+- Github: [Irfad kp](https://github.com/irfadkp)
